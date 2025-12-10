@@ -91,11 +91,11 @@ python main.py
 
 These screenshots are stored in `output/` and illustrate the running app UI and prediction result.
 
-![Screenshot](output/Screenshot_2025-12-10_123139.png)
-![Screenshot 2025-12-10 123224](output/Screenshot 2025-12-10 123224.png)
-![Screenshot 2025-12-10 123256](output/Screenshot 2025-12-10 123256.png)
-![Screenshot 2025-12-10 123332](output/Screenshot 2025-12-10 123332.png)
-![Screenshot 2025-12-10 123352](output/Screenshot 2025-12-10 123352.png)
+![Screenshot 2025-12-10 123139](output/SS1.png)
+![Screenshot 2025-12-10 123224](output/SS2.png)
+![Screenshot 2025-12-10 123256](output/SS3.png)
+![Screenshot 2025-12-10 123332](output/SS4.png)
+![Screenshot 2025-12-10 123352](output/SS5.png)
 
 ## �📦 Update Repository (Start to End Commands)
 
