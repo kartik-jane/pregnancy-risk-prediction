@@ -83,12 +83,21 @@ python main.py
 
 ![Prediction Result](docs/screenshots/prediction_result.svg)
 
-- App overview:<img width="995" height="377" alt="image" src="https://github.com/user-attachments/assets/1ea83ff9-d0e1-4875-ada0-488262f628c5" />
+- App overview:
 
+![App Overview](docs/screenshots/app_overview.svg)
 
-![App Overview]
+## � Additional Screenshots (output/)
 
-## 📦 Update Repository (Start to End Commands)
+These screenshots are stored in `output/` and illustrate the running app UI and prediction result.
+
+![Screenshot](output/Screenshot_2025-12-10_123139.png)
+![Screenshot 2025-12-10 123224](output/Screenshot 2025-12-10 123224.png)
+![Screenshot 2025-12-10 123256](output/Screenshot 2025-12-10 123256.png)
+![Screenshot 2025-12-10 123332](output/Screenshot 2025-12-10 123332.png)
+![Screenshot 2025-12-10 123352](output/Screenshot 2025-12-10 123352.png)
+
+## �📦 Update Repository (Start to End Commands)
 
 - Initialize Git and first commit:
 ```
@@ -135,4 +144,3 @@ The dataset consists of anonymized maternal-fetal records with 24 clinical featu
 - Name: Kartik Wasudeo Jane
 - College: Priyadarshini College of Engineering, Nagpur
 - Email: kartikjane26@gmail.com
-
