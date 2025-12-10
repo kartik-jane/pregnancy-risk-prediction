@@ -77,23 +77,21 @@ python -m streamlit run app.py
 python main.py
 ```
 
-## 🖼️ Output Preview
+## 🖼️ website Preview
 
 - Predicted Risk Level container (light-blue):
 
-![Prediction Result](docs/screenshots/prediction_result.svg)
+![Screenshot 2025-12-10 123224](output/SS6.png)
 
 - App overview:
 
-![App Overview](docs/screenshots/app_overview.svg)
 
-## � Additional Screenshots (output/)
+##🖼️ Output Preview (output/)
 
 These screenshots are stored in `output/` and illustrate the running app UI and prediction result.
 
 ![Screenshot 2025-12-10 123139](output/SS1.png)
 ![Screenshot 2025-12-10 123224](output/SS2.png)
-![Screenshot 2025-12-10 123256](output/SS3.png)
 ![Screenshot 2025-12-10 123332](output/SS4.png)
 ![Screenshot 2025-12-10 123352](output/SS5.png)
 
